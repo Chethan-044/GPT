@@ -2,6 +2,8 @@
 
 Aura is a full-stack AI-powered application that allows users to chat with AI, generate images, publish them to a community feed, and manage usage via a credit-based system.
 
+🚀 **Project is live here:**  
+👉 https://quick-gpt-five-green.vercel.app/
 ---
 
 ## 🌟 Features
